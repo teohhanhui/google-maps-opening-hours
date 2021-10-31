@@ -1,0 +1,235 @@
+{
+  "address_components": [
+    {
+      "long_name": "LOT 9B-3",
+      "short_name": "LOT 9B-3",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Jalan Kemajuan 12/18",
+      "short_name": "Jalan Kemajuan 12/18",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Seksyen 13",
+      "short_name": "Seksyen 13",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Petaling Jaya",
+      "short_name": "PJ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Selangor",
+      "short_name": "Selangor",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Malaysia",
+      "short_name": "MY",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "46200",
+      "short_name": "46200",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "formatted_address": "LOT 9B-3, Jalan Kemajuan 12/18, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 3.11442,
+      "lng": 101.64227
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 3.115644730291502,
+        "lng": 101.6437699302915
+      },
+      "southwest": {
+        "lat": 3.112946769708498,
+        "lng": 101.6410719697085
+      }
+    }
+  },
+  "name": "Unique Seafood @ PJ23",
+  "opening_hours": {
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1430"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30 AM – 2:30 PM, 5:30 – 10:30 PM",
+      "Tuesday: 11:30 AM – 2:30 PM, 5:30 – 10:30 PM",
+      "Wednesday: 11:30 AM – 2:30 PM, 5:30 – 10:30 PM",
+      "Thursday: 11:30 AM – 2:30 PM, 5:30 – 10:30 PM",
+      "Friday: 11:30 AM – 2:30 PM, 5:30 – 10:30 PM",
+      "Saturday: 11:30 AM – 2:30 PM, 5:30 – 10:30 PM",
+      "Sunday: 11:00 AM – 2:30 PM, 5:30 – 10:30 PM"
+    ]
+  },
+  "place_id": "ChIJLdfEumFJzDERUYVijPj8ACw",
+  "plus_code": {
+    "compound_code": "4J7R+QW Petaling Jaya, Selangor, Malaysia",
+    "global_code": "6PM34J7R+QW"
+  },
+  "vicinity": "LOT 9B-3, Jalan Kemajuan 12/18, Seksyen 13, Petaling Jaya"
+}

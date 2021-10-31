@@ -1,0 +1,85 @@
+{
+  "address_components": [
+    {
+      "long_name": "Lebuhraya Utara - Selatan",
+      "short_name": "Lebuhraya Utara - Selatan",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Petaling Jaya",
+      "short_name": "PJ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Selangor",
+      "short_name": "Selangor",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Malaysia",
+      "short_name": "MY",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "47830",
+      "short_name": "47830",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "formatted_address": "Lebuhraya Utara - Selatan, 47830 Petaling Jaya, Selangor, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 3.1891479,
+      "lng": 101.5855386
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 3.190616330291502,
+        "lng": 101.5869606802915
+      },
+      "southwest": {
+        "lat": 3.187918369708499,
+        "lng": 101.5842627197085
+      }
+    }
+  },
+  "name": "R&R Sungai Buloh Southbound",
+  "opening_hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ]
+  },
+  "place_id": "ChIJ1311xWNPzDERLefOXMIPebk",
+  "plus_code": {
+    "compound_code": "5HQP+M6 Petaling Jaya, Selangor, Malaysia",
+    "global_code": "6PM35HQP+M6"
+  },
+  "vicinity": "Lebuhraya Utara - Selatan, Petaling Jaya"
+}

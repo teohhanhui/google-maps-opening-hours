@@ -1,0 +1,172 @@
+{
+  "address_components": [
+    {
+      "long_name": "Third Floor",
+      "short_name": "Third Floor",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "15",
+      "short_name": "15",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Jalan Balai Polis",
+      "short_name": "Jalan Balai Polis",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "City Centre",
+      "short_name": "City Centre",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kuala Lumpur",
+      "short_name": "Kuala Lumpur",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Wilayah Persekutuan",
+      "short_name": "Wilayah Persekutuan",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Malaysia",
+      "short_name": "MY",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "50000",
+      "short_name": "50000",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "formatted_address": "Third Floor, 15, Jalan Balai Polis, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 3.1411726,
+      "lng": 101.697586
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 3.142542030291502,
+        "lng": 101.6989375802915
+      },
+      "southwest": {
+        "lat": 3.139844069708498,
+        "lng": 101.6962396197085
+      }
+    }
+  },
+  "name": "The Attic Bar",
+  "opening_hours": {
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00 PM – 12:00 AM",
+      "Tuesday: 4:00 PM – 12:00 AM",
+      "Wednesday: 4:00 PM – 12:00 AM",
+      "Thursday: 4:00 PM – 12:00 AM",
+      "Friday: 4:00 PM – 12:00 AM",
+      "Saturday: 4:00 PM – 12:00 AM",
+      "Sunday: 4:00 PM – 12:00 AM"
+    ]
+  },
+  "place_id": "ChIJpzPLhNpJzDERJKk5dhSQUvI",
+  "plus_code": {
+    "compound_code": "4MRX+F2 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+    "global_code": "6PM34MRX+F2"
+  },
+  "vicinity": "Third Floor, 15, Jalan Balai Polis, City Centre, Kuala Lumpur"
+}

@@ -1,0 +1,99 @@
+{
+  "address_components": [
+    {
+      "long_name": "Sheikh Mohammed Bin Zayed Road",
+      "short_name": "Sheikh Mohammed Bin Zayed Rd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Muhaisanah 2",
+      "short_name": "Muhaisanah 2",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Muhaisnah",
+      "short_name": "Muhaisnah",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Dubai",
+      "short_name": "Dubai",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Dubai",
+      "short_name": "Dubai",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United Arab Emirates",
+      "short_name": "AE",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "formatted_address": "Amman St, Exit 63 Al - Sheikh Mohammed Bin Zayed Rd - Muhaisnah - Muhaisanah 2 - Dubai - United Arab Emirates",
+  "geometry": {
+    "location": {
+      "lat": 25.2668134,
+      "lng": 55.4165863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 25.2681154302915,
+        "lng": 55.4176965802915
+      },
+      "southwest": {
+        "lat": 25.2654174697085,
+        "lng": 55.41499861970851
+      }
+    }
+  },
+  "name": "Medical Fitness Centre Al-Muhaisnah",
+  "opening_hours": {
+    "periods": [
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: 12:00 AM – 9:00 PM",
+      "Friday: Closed",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ]
+  },
+  "place_id": "ChIJPbMImmVeXz4RaXEGsxuldwM",
+  "plus_code": {
+    "compound_code": "7C88+PJ Dubai - United Arab Emirates",
+    "global_code": "7HQQ7C88+PJ"
+  },
+  "vicinity": "Amman St, Exit 63 Al - Sheikh Mohammed Bin Zayed Road - Dubai"
+}

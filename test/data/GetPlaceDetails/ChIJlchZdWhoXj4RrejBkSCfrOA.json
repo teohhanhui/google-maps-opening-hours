@@ -1,0 +1,87 @@
+{
+  "address_components": [
+    {
+      "long_name": "CCX2+5G5",
+      "short_name": "CCX2+5G5",
+      "types": [
+        "plus_code"
+      ]
+    },
+    {
+      "long_name": "Zone 1",
+      "short_name": "Zone 1",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Abu Dhabi",
+      "short_name": "Abu Dhabi",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Abu Dhabi",
+      "short_name": "Abu Dhabi",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United Arab Emirates",
+      "short_name": "AE",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "formatted_address": "CCX2+5G5 - Zone 1 - Abu Dhabi - United Arab Emirates",
+  "geometry": {
+    "location": {
+      "lat": 24.44789130000001,
+      "lng": 54.40135019999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 24.44917898029151,
+        "lng": 54.40274738029149
+      },
+      "southwest": {
+        "lat": 24.4464810197085,
+        "lng": 54.40004941970849
+      }
+    }
+  },
+  "name": "RENT A CAR",
+  "opening_hours": {
+    "periods": [
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Closed",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ]
+  },
+  "place_id": "ChIJlchZdWhoXj4RrejBkSCfrOA",
+  "vicinity": "CCX2+5G5 - Abu Dhabi"
+}

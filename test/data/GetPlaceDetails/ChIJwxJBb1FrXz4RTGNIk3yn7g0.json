@@ -1,0 +1,143 @@
+{
+  "address_components": [
+    {
+      "long_name": "دبي",
+      "short_name": "دبي",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "دبي مارينا",
+      "short_name": "دبي مارينا",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "دبي",
+      "short_name": "دبي",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United Arab Emirates",
+      "short_name": "AE",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "formatted_address": "Grosvenor House Dubai - Al Emreef Street - دبي مارينا - دبي - United Arab Emirates",
+  "geometry": {
+    "location": {
+      "lat": 25.08575,
+      "lng": 55.14386200000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 25.0871782302915,
+        "lng": 55.1450962302915
+      },
+      "southwest": {
+        "lat": 25.0844802697085,
+        "lng": 55.1423982697085
+      }
+    }
+  },
+  "name": "Bar 44",
+  "opening_hours": {
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00 PM – 1:00 AM",
+      "Tuesday: 6:00 PM – 1:00 AM",
+      "Wednesday: 6:00 PM – 1:00 AM",
+      "Thursday: 6:00 PM – 2:00 AM",
+      "Friday: 6:00 PM – 2:00 AM",
+      "Saturday: 6:00 PM – 1:00 AM",
+      "Sunday: 6:00 PM – 1:00 AM"
+    ]
+  },
+  "place_id": "ChIJwxJBb1FrXz4RTGNIk3yn7g0",
+  "plus_code": {
+    "compound_code": "34PV+7G Dubai - United Arab Emirates",
+    "global_code": "7HQQ34PV+7G"
+  },
+  "vicinity": "Grosvenor House Dubai, Al Emreef Street"
+}

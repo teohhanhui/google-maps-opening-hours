@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+*.cjs text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.mjs text eol=lf
+*.yml text eol=lf
+
+/.yarn/releases/** binary
+/.yarn/plugins/** binary

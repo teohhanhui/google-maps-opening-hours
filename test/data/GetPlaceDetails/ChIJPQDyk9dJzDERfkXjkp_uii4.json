@@ -1,0 +1,165 @@
+{
+  "address_components": [
+    {
+      "long_name": "30G",
+      "short_name": "30G",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Jalan Galloway",
+      "short_name": "Jalan Galloway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Bukit Bintang",
+      "short_name": "Bukit Bintang",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kuala Lumpur",
+      "short_name": "Kuala Lumpur",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Wilayah Persekutuan Kuala Lumpur",
+      "short_name": "Wilayah Persekutuan Kuala Lumpur",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Malaysia",
+      "short_name": "MY",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "50150",
+      "short_name": "50150",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "formatted_address": "30G, Jalan Galloway, Bukit Bintang, 50150 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "geometry": {
+    "location": {
+      "lat": 3.1424566,
+      "lng": 101.705017
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 3.143749130291502,
+        "lng": 101.7064349802915
+      },
+      "southwest": {
+        "lat": 3.141051169708498,
+        "lng": 101.7037370197085
+      }
+    }
+  },
+  "name": "Oldtown White Coffee",
+  "opening_hours": {
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 8:00 PM",
+      "Sunday: 9:00 AM – 8:00 PM"
+    ]
+  },
+  "place_id": "ChIJPQDyk9dJzDERfkXjkp_uii4",
+  "plus_code": {
+    "compound_code": "4PR4+X2 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+    "global_code": "6PM34PR4+X2"
+  },
+  "vicinity": "30G, Jalan Galloway, Kuala Lumpur"
+}
