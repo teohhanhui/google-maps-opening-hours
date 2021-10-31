@@ -6,7 +6,10 @@
   "author": "Teoh Han Hui <teohhanhui@gmail.com>",
   "main": "index.js",
   "type": "module",
-  "repository": "https://github.com/teohhanhui/google-maps-opening-hours",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teohhanhui/google-maps-opening-hours.git"
+  },
   "scripts": {
     "lint": "eslint . .eslintrc.cjs",
     "lint:fix": "eslint --fix . .eslintrc.cjs",
